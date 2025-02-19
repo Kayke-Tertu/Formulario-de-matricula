@@ -52,3 +52,7 @@ img {
 .felx-2{
     flex: 2;
 }
+
+@media (width <= 22.5em){
+    
+}

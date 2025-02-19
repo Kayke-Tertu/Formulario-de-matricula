@@ -21,7 +21,7 @@ label + .radio-wrapper{
     & input:hover{
         all:unset;        /*sever para tirar todas informações do input*/
         position: absolute;  
-        inset: 0;
+        inset: 0; 
     }
 
     .radio-image{
